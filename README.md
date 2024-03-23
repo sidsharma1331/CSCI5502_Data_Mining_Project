@@ -1,20 +1,20 @@
 # Credit Card Fraud Detection 
 
-##**Overview**:- 
+#**Overview**:- 
 
 The Credit Card Fraud Detection project aims to develop a robust system leveraging machine learning algorithms to identify and prevent fraudulent transactions. By analyzing transactional data, user behaviors, and various patterns, the system detects anomalies indicative of fraudulent activities. Utilizing advanced techniques such as anomaly detection, supervised learning, and ensemble methods, the model continuously learns and adapts to evolving fraud patterns, providing real-time alerts to financial institutions for timely intervention, safeguarding customers' finances, and preserving trust in the banking system.
 
 #**Objectives**:-
 
-**Fraud Detection**: The primary objective is to accurately detect fraudulent transactions from legitimate ones, thus minimizing financial losses for both cardholders and financial institutions.
+*Fraud Detection*: The primary objective is to accurately detect fraudulent transactions from legitimate ones, thus minimizing financial losses for both cardholders and financial institutions.
 
-**Algorithm Evaluation**: Assess the performance of various machine learning and deep learning algorithms in classifying fraudulent transactions.
+*Algorithm Evaluation*: Assess the performance of various machine learning and deep learning algorithms in classifying fraudulent transactions.
 
-**Imbalanced Data Handling**: Implement techniques such as Synthetic Minority Over-sampling Technique (SMOTE) to address the class imbalance problem inherent in the dataset.
+*Imbalanced Data Handling*: Implement techniques such as Synthetic Minority Over-sampling Technique (SMOTE) to address the class imbalance problem inherent in the dataset.
 
-**Model Interpretability**: Strive for models that not only offer high accuracy but also provide insights into the factors influencing fraudulent activities.
+*Model Interpretability*: Strive for models that not only offer high accuracy but also provide insights into the factors influencing fraudulent activities.
 
-**Scalability**: Design a solution that can scale efficiently to handle large volumes of credit card transactions in real-time environments.
+*Scalability*: Design a solution that can scale efficiently to handle large volumes of credit card transactions in real-time environments.
 
 #**Dataset Description**:-
 
