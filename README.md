@@ -1,4 +1,4 @@
-# CSCI5502_Data_Mining_Project
+# Credit Card Fraud Detection 
 
 #**Dataset Description**:-
 The dataset comprises credit card transactions conducted by European cardholders in September 2013. This dataset comprises transactions that took place during a span of two days, with a total of 492 instances of fraud out of a total of 284,807 transactions.
